@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>Prueba</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			background-color:#FFFFFF;
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
+
+	<meta name="viewport" content="user-scalable=yes, width=1024" />
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Mono&subset=latin' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto&subset=latin' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:700&subset=latin' rel='stylesheet' type='text/css'>
+
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
+
+	<div id="prueba_hype_container" style="margin:auto;position:relative;width:1024px;height:768px;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="Prueba.hyperesources/prueba_hype_generated_script.js?45383"></script>
+	</div>
+
+	<!-- end copy -->
+	
+
+
+	<!-- text content for search engines: -->
+
+	<div style="display:none" aria-hidden=true>
+
+		<div>concept redesign by Camila Quintero</div>
+		<div>design assesment</div>
+		<div>dive in
+</div>
+		<div></div>
+		<div>visual elements
+</div>
+		<div>The visual style I used for redesigning the concept of the page is mainly focused on simplicity. After analyzing the different types of elements that Bunq offers across the website I realized the style is based on a very fun, flat and simple design. Therefore, I created a few icons that follow these principles and emphasize the main concept. These also ensure better access to achieve a more inclusive user experience. Especially the full icons will make the interface easier recognizable for people that are visually impaired. I worked on the visual style while following a very similar font and color palette that resembles the actual Bunq-website.
+</div>
+		<div><
+</div>
+		<div>>
+</div>
+		<div>The first thing I noticed while inspecting the website was the amount of information that can be classified into more concise and easy accessible categories that will bring the user faster to his/her destination on the website. Therefore, I redesigned the main menu following the main categories the user would need quick access to.
+</div>
+		<div>make it simple.useful.clear.</div>
+		<div>For the second part of the page, I decided it was very important to show the actual story paragraph, followed by the values that make the brand human. I also decided to add interactive transitions. This makes sure the user stays focused, especially those with a short attention span.
+</div>
+		<div>our story</div>
+		<div>The main objective of creating an 'about us page' is to showcase the brand's services and personality. For that reason, I chose to make use of the great introduction video the other channels offer. It has a modern feeling and makes the site interactive, dynamic and approachable in many ways. In my opinion it's important to also use this visual aspect on the about page since Bunq is a relatively new brand that currently is positioning itself in the market. This means visitors might tend to show a specific interest in the about page.
+</div>
+		<div>gracias.</div>
+
+	</div>
+
+	<!-- end text content: -->
+
+  </body>
+</html>
